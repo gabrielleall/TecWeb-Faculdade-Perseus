@@ -87,3 +87,4 @@ Install fonts ``` @import url('https://fonts.googleapis.com/css?family=Arimo:700
 <h3>Regras</h3>
 
 * Usar codigo padrão underscore exemplo: nome_classe, classe_metodo.
+* Comente seu codigo.
